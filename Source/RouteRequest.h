@@ -12,5 +12,5 @@
 - (NSString *)method;
 - (NSURL *)url;
 - (NSData *)body;
-
+- (NSString *)valueForFormField:(NSString*)field;
 @end
