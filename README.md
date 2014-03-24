@@ -4,7 +4,7 @@ Adds a Sinatra-inspired routing API on top of [CocoaHTTPServer](https://github.c
 
 Supports iOS 4+ and OS X 10.7+
 
-**Changes from trunk:
+###Changes from trunk:
 - RouteRequest has new method: valueForFormField: This method is used to retrieve values from a submitted form.
 
 ## Installation
